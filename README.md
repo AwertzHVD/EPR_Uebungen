@@ -26,18 +26,14 @@ Example folder structure:
 
 ---
 
-## 🧩 Subjects Included
-- 🧠 **ADA** – Algorithmisches Denken und AI-basiertes Problemlösen  
+## 🧩 Subject Included
 - 💻 **EPR** – Einführung in die Programmierung  
-- 📋 **REQ** – Requirements Engineering  
-- ...and more as the semester continues!
 
 ---
 
 ## 🧑‍💻 How to Use
-1. Browse to the subject you’re interested in.  
-2. Open the corresponding exercise folder.  
-3. Review the code, documentation, or notes.  
+1. Open the corresponding exercise folder.  
+2. Review the code, documentation, or notes.  
 
 ---
 
