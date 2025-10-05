@@ -22,7 +22,8 @@ This project is meant to:
 ## 🗂️ Repository Structure
 Homework is organized by topic and subject.  
 Example folder structure:
-
+└── EPR_Einfuehrung_in_die_Programmierung/
+└──── uebung01_aufgabe2/
 
 ---
 
@@ -39,7 +40,7 @@ Example folder structure:
 
 ## 💬 Notes
 - Each exercise folder may include source code, task descriptions, or explanations.  
-- File naming follows the pattern `uebungXX_aufgabeY`.  
+- File naming follows the pattern `uebungXX_aufgabeYY`.  
 - Everything is kept as close as possible to the original submission format.
 
 ---
